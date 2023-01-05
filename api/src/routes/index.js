@@ -5,6 +5,7 @@ const router = Router();
 
 const getRouter = require("./GetRouter.js");
 
+
 // Configurar los routers
 // Ejemplo: router.use('/auth', authRouter);
 
